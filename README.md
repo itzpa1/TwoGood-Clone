@@ -7,7 +7,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://itzpa1.github.io/TwoGood-Clone/" target="_blank"><img src="preview.jpg">
+    <a href="https://itzpa1.github.io/TwoGood-Clone/" target="_blank"><img src="preview.png">
   </a>
   </kbd>
 </p>
